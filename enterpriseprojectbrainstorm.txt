@@ -11,3 +11,7 @@ Company Ideas
   Virtual Reality Social Platforms with Real-World Currency
    users can create and interact in virtual worlds and transact using a real-world currency that’s convertible into actual money.
    Controversy: Concerns might include the potential for virtual economies to impact real-world finances, issues of virtual property rights, and the risks of addiction or exploitation within the virtual environment.
+
+  Self Driving/smart cars
+
+  Self checkout/ smart shopping
